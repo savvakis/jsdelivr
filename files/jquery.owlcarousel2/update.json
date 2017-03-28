@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "OwlCarousel2",
+  "repo": "OwlCarousel2/OwlCarousel2",
+  "files": {
+    "basePath": "dist/"
+  }
+}
